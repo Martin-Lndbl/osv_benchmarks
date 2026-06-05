@@ -14,4 +14,13 @@
 [submodule "duckdb/duckdb"]
 	path = duckdb/duckdb
 	url = git@github.com:Meandres/duckdb.git
-	branch = ucache
+	branch = kite
+[submodule "ycsb-leveldb/leveldb"]
+	path = ycsb-leveldb/leveldb
+	url = git@github.com:Meandres/leveldb.git
+[submodule "rocksdb/rocksdb"]
+	path = rocksdb/rocksdb
+	url = git@github.com:Meandres/rocksdb.git
+[submodule "polars/polars"]
+	path = polars/polars
+	url = git@github.com:Meandres/polars.git
